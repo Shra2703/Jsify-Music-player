@@ -35,10 +35,8 @@ https://github.com/Shra2703/Jsify-Music-player/assets/113618935/f8bce4d7-ba31-42
   2. Open the web app in your browser.
   3. Browse your music library using the playlist.
   4. Click on a song to start playing it. Click again to pause.
+  5. Use the "Next" button to skip to the next song in the playlist.
 
-
-Use the "Next" button to skip to the next song in the playlist.
-
-Enjoy your music!
+### *Enjoy your music!*
 
 
