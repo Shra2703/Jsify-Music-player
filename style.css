@@ -3,7 +3,7 @@
 * {
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  /* overflow: hidden; */
   font-family: "Ubuntu", sans-serif;
 }
 body {
@@ -44,7 +44,7 @@ nav ul li {
 }
 
 .container {
-  min-height: 70vh;
+  height: 70vh;
   color: white;
   background: black;
   width: 70%;
@@ -57,8 +57,9 @@ nav ul li {
   background: url("images/m2.webp");
   background-position: center;
   background-size: cover;
+  overflow-y: auto;
 
-  /* border: 1px solid white; */
+  border: 1px solid yellow;
   /* margin-bottom:15px ; */
 }
 
@@ -106,6 +107,7 @@ nav ul li {
   justify-content: center;
   align-items: center;
   /* border: 1px solid yellow; */
+  /* overflow-y: auto; */
 }
 
 .songInfo img {
